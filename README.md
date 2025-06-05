@@ -24,4 +24,4 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 * [San Franciscoból Jöttem](https://sanfranciscoboljottem.com/): IT oktatás
 
 ## Podcast
-*[Kraftie](https://www.youtube.com/playlist?list=PLizGWkRVv6IzkUFsvXpIX6lDFwreUPS-l)
+* [Kraftie](https://www.youtube.com/playlist?list=PLizGWkRVv6IzkUFsvXpIX6lDFwreUPS-l)
