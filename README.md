@@ -1,10 +1,11 @@
-# Magyar IT tartalmak gyűjteménye
+# Magyar IT tartalmak gyűjteménye - WIP 2025.06.05
 Kategóriák szerinti magyar nyelvű, informatikához kapcsolódó tartalmak gyűjteménye. 
 Ha új tartalmazt adnál hozzá, PR jöhet.
 
 ## Video
 
 #### Programozás
+* [IT Sziget](https://www.youtube.com/@itsziget): Docker
 * [San Franciscoból Jöttem](https://www.youtube.com/@SanFranciscobolJottem): IT oktatás
 * [Zaltech](https://www.youtube.com/channel/UC589h_ID3IbOv5eg4W5T5dQ): Programozás, DevOps, AI, Robotok
   
