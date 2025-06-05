@@ -25,3 +25,10 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 
 ## Podcast
 * [Kraftie](https://www.youtube.com/playlist?list=PLizGWkRVv6IzkUFsvXpIX6lDFwreUPS-l)
+
+
+## Könyv
+
+* [Helló Világ! Helló C#!](https://csharptutorial.hu/docs/hellovilag-hellocsharp/): Naprakész C# könyv
+* [Helló Világ! Helló Kriptográfia!](https://csharptutorial.hu/docs/hello-vilag-hello-kriptografia/): A Helló C#! folytatása, Kriptográfiai alapok C#-al.
+* [A C programozási nyelv C# fejlesztőknek](https://csharptutorial.hu/docs/a-c-programozasi-nyelv-csharp-fejlesztoknek/): Szintén a Helló C#! folytatása, C koncepciók, alapok, főként natív kóddal való interakció céljából.
