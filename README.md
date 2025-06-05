@@ -4,13 +4,17 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 
 ## Video
 
-#### Programozás
+#### DevOps
 * [IT Sziget](https://www.youtube.com/@itsziget): Docker
+
+#### Programozás
 * [San Franciscoból Jöttem](https://www.youtube.com/@SanFranciscobolJottem): IT oktatás
 * [Zaltech](https://www.youtube.com/channel/UC589h_ID3IbOv5eg4W5T5dQ): Programozás, DevOps, AI, Robotok
   
 
 ## Blog
+
+#### Programozás
 * [San Franciscoból Jöttem](https://sanfranciscoboljottem.com/): IT oktatás
 
 ## Podcast
