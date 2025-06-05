@@ -5,7 +5,7 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 ## Video
 
 #### AI
-* [Irány a tech](https://www.youtube.com/@iranyatech)
+* [Irány a tech](https://www.youtube.com/@iranyatech): AI
 
 #### DevOps
 * [IT Sziget](https://www.youtube.com/@itsziget): Docker
