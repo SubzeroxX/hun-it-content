@@ -34,6 +34,7 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 * [HunASM](https://web.archive.org/web/20190913042955if_/http://hunasm.uw.hu/): Assembly programozás
 * [San Franciscoból Jöttem](https://sanfranciscoboljottem.com/): IT oktatás
 * [Webdev Center](https://webdevcenter.hu/): Webfejlesztés
+* [Zalán Medium](https://zlaval.medium.com/list/zalan-magyar-tartalmak-2e5878418218): Prog, Devops, Data Eng
 
 
 ## Podcast
@@ -57,4 +58,5 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 ## Old but Gold
 * [Linux Dokumentációk Magyarul](https://szabilinux.hu/): Linux
 * [TensorFlow Alapozó by László Fazekas](https://thebojda.medium.com/tensorflow-alapoz%C3%B3-d2d1ee97c9db)
+* [Zalán Java Blog](https://github.com/zlaval/blog/wiki/Arcive): Java, Spring, Microservices
 
