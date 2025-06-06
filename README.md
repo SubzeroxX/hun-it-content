@@ -1,6 +1,6 @@
 # Magyar IT tartalmak gyűjteménye - WIP 2025.06.06
 Kategóriák szerinti magyar nyelvű, informatikához kapcsolódó tartalmak gyűjteménye. 
-Ha új tartalmazt adnál hozzá, PR jöhet.
+Ha új tartalmat adnál hozzá, PR jöhet.
 
 ## Video
 
