@@ -16,6 +16,7 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 * [Gerifield YT](https://www.youtube.com/@Gerifield/videos) | [Twitch](https://www.twitch.tv/gerifield)
 * [MagosIT](https://www.youtube.com/u9vata): Lowlevel programozás, Linux, AI, Új algoritmusok, Uncut streaming
 * [San Franciscoból Jöttem](https://www.youtube.com/@SanFranciscobolJottem): IT oktatás
+* [WebMánia](https://www.youtube.com/@WebManiacc): Webfejlesztés
 * [Zaltech](https://www.youtube.com/channel/UC589h_ID3IbOv5eg4W5T5dQ): Programozás, DevOps, AI, Robotok
   
 #### Tesztelés 
