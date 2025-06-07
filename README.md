@@ -44,9 +44,14 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 
 
 ## Könyv
+
+#### C#
 * [A C programozási nyelv C# fejlesztőknek](https://csharptutorial.hu/docs/a-c-programozasi-nyelv-csharp-fejlesztoknek/): A Helló C#! folytatása, C koncepciók, alapok.
 * [Helló Világ! Helló C#!](https://csharptutorial.hu/docs/hellovilag-hellocsharp/): Naprakész C# könyv
 * [Helló Világ! Helló Kriptográfia!](https://csharptutorial.hu/docs/hello-vilag-hello-kriptografia/): A Helló C#! folytatása, Kriptográfiai alapok C#-al.
+
+#### Python
+- [Hogyan gondolkozz úgy, mint egy informatikus: Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf): Python alapok - ingyenes PDF
 
 ## Szakmai közösségi oldalak, csoportok, fórumok
 * [Magyar Demo Scene](https://www.scene.hu)
