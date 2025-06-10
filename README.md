@@ -41,6 +41,9 @@ Ha új tartalmat adnál hozzá, PR jöhet.
 * [WPSuli](https://wpsuli.hu/): WordPress oktatóanyagok, hírek
 * [Zalán Medium](https://zlaval.medium.com/list/zalan-magyar-tartalmak-2e5878418218): Prog, Devops, Data Eng
 
+#### VMware
+* [Sokadik IT Blog](https://newman.cloud/): Gyakorlati tapasztalatok VMware alapú rendszerek tervezéséről és implementációjáról
+
 ## Podcast
 * [MI és Más](https://open.spotify.com/show/0EGs6wfWqAb2nfa23ieOpS?si=ATlv1jcRQECowjNOpTGLvw&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBEwNmo3UVlHMk5wcldSTzJINwEeaIPwF6eKjd6VxX0iHZMVNBmr3rwjGQg7Byvs81fTZCSm77El7DW_ToVIBRY_aem_otkjClQiDSAe7zBWv92pSQ&nd=1&dlsi=aed376a698c1485f)
 * [Kraftie](https://www.youtube.com/playlist?list=PLizGWkRVv6IzkUFsvXpIX6lDFwreUPS-l)
