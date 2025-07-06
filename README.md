@@ -36,6 +36,7 @@ Ha új tartalmat adnál hozzá, PR jöhet.
 #### Programozás
 * [Balint Pethe](https://balintpethe.com/): Fullstack fejleztés (Vue, Laravel)
 * [HunASM](https://web.archive.org/web/20190913042955if_/http://hunasm.uw.hu/): Assembly programozás
+* [JTechLog](https://www.jtechlog.hu/): Viczián István Java blogja, Spring, JPA, stb. témakörökben
 * [San Franciscoból Jöttem](https://sanfranciscoboljottem.com/): IT oktatás
 * [sulipy](https://sulipy.hu/): Python, Javascript, Git, stb. alapok, digitális kultúra érettségi megoldások
 * [Webdev Center](https://webdevcenter.hu/): Webfejlesztés
