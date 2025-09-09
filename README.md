@@ -20,6 +20,7 @@ Ha új tartalmat adnál hozzá, PR jöhet.
 * [San Franciscoból Jöttem](https://www.youtube.com/@SanFranciscobolJottem): IT oktatás
 * [WebMánia](https://www.youtube.com/@WebManiacc): Webfejlesztés
 * [Zaltech](https://www.youtube.com/channel/UC589h_ID3IbOv5eg4W5T5dQ): Programozás, DevOps, AI, Robotok
+* [Kódolj velem](https://www.youtube.com/@kodoljvelem/videos): C#
   
 #### Tesztelés 
 * [Teszteljük le](https://www.youtube.com/@teszteljukle)
